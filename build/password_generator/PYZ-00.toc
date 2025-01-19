@@ -1,4 +1,4 @@
-('C:\\Users\\Olicek\\Desktop\\Password '
+('C:\\Users\\Olicek\\Desktop\\All\\Password '
  'Generator\\build\\password_generator\\PYZ-00.pyz',
  [('multiprocessing.popen_spawn_posix',
    'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
@@ -450,11 +450,11 @@
   ('asyncio.tasks',
    'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py',
    'PYMODULE'),
-  ('asyncio.base_tasks',
-   'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_tasks.py',
-   'PYMODULE'),
   ('asyncio.locks',
    'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_tasks.py',
    'PYMODULE'),
   ('asyncio.mixins',
    'C:\\Users\\Olicek\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\mixins.py',
